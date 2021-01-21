@@ -1,0 +1,15 @@
+{
+  "version_major": 1,
+  "version_minor": 0,
+  "version_revision": 1,
+  "version_build": 1,
+  "version_rc": 0,
+  "mandatory": true,
+  "lastmandatory": {
+    "version_major": 1,
+    "version_minor": 0,
+    "version_revision": 1,
+    "version_build": 0,
+    "version_rc": 0
+  }
+}
